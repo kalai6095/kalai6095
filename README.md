@@ -3,13 +3,19 @@
 
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,Node.js,Python)](https://github.com/kalai6095)
 
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=Java,Node.js,Python,Golang,JavaScript,SQL)](https://github.com/kalai6095)
 
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Back%20End%0Framework&badges=Spring%20MVC,Spring%20Data%20JPA,Spring%20Security,Spring%20Boot,Hibernate,Strut2,gRPC,Rest%20API, JAX-RS)](https://github.com/kalai6095)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=SpringMVC,Hibernate,SpringDataJPA,SpringSecurity,SpringBoot,Strut2,RestAPI,JAX-RS,Node.js,Express.js)](https://github.com/kalai6095)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Back%20End%0Framework&badges=Express.js,Angular,jQuery,Socket.io,Bootstrap)](https://github.com/kalai6095)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Framework&badges=JavaScript,Angular,jQuery,Socket.io,MongoDB,Bootstrap)](https://github.com/kalai6095)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=AWS&badges=IAM,EC2,EKS,Lambda,MSK,Secret/session%20Manager,SNS,SQS,SES,Cloudwatch,...)](https://github.com/kalai6095)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,MongoDB,Mongoose,AWS%20EC2,AWS%20S3,Git,GitHub)](https://github.com/kalai6095)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database&badges=MySQL,Informix,memSQL,MongoDB)](https://github.com/kalai6095)
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Build%20Tool&badges=Maven,Ant,Gradle,Make)](https://github.com/kalai6095)
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=CI&badges=Jenkin)](https://github.com/kalai6095)
 
 
 
