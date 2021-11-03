@@ -1,7 +1,16 @@
 ### Hi there 👋
 
 
-**kalai6095/kalai6095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,Node.js,Python)](https://github.com/kalai6095)
+
+
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=SpringMVC,Hibernate,SpringDataJPA,SpringSecurity,SpringBoot,Strut2,RestAPI,JAX-RS,Node.js,Express.js)](https://github.com/kalai6095)
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Framework&badges=JavaScript,Angular,jQuery,Socket.io,MongoDB,Bootstrap)](https://github.com/kalai6095)
+
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MySQL,MongoDB,Mongoose,AWS%20EC2,AWS%20S3,Git,GitHub)](https://github.com/kalai6095)
+
 
 
 Here are some ideas to get you started:
