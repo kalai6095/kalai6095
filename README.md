@@ -30,3 +30,6 @@ Specializes in professional web development
     ⚡ Message Queue: Kafka.
     ⚡ Cloud platform : AWS(IAM,EC2,EKS,Lambda, MSK, Secret/session Manager, SNS, SQS, SES, Cloudwatch,...) 
     Agile Delivery Environment
+    
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalai6095@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalaiselvan-a-1431b08b/)
