@@ -36,7 +36,6 @@ Specializes in professional web development
     ⚡ Cloud platform : AWS(IAM,EC2,EKS,Lambda, MSK, Secret/session Manager, SNS, SQS, SES, Cloudwatch,...) 
     Agile Delivery Environment
 
-![](https://github-readme-stats.vercel.app/api?username=kalai6095&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kalai6095&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalai6095&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
