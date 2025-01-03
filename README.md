@@ -1,5 +1,5 @@
 💬 About Me ...
-As an experienced Java full stack developer with 8.5 years of industry experience, I have developed a strong proficiency in designing and developing scalable, high-performance applications. I have a deep understanding of core Java concepts, including Spring framework, Hibernate, and RESTful APIs. My technical skill set also includes expertise in front-end technologies such as HTML, CSS, and JavaScript, as well as popular front-end frameworks such as Angular and React.
+As an experienced Java full stack developer with 10+ years of industry experience, I have developed a strong proficiency in designing and developing scalable, high-performance applications. I have a deep understanding of core Java concepts, including Spring framework, Hibernate, and RESTful APIs. My technical skill set also includes expertise in front-end technologies such as HTML, CSS, and JavaScript, as well as popular front-end frameworks such as Angular and React.
 
 Throughout my career, I have been responsible for developing complex applications from scratch, as well as enhancing and maintaining existing applications. I have collaborated closely with cross-functional teams to understand business requirements and translate them into technical solutions. I have also played a key role in implementing best practices and ensuring code quality.
 
