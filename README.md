@@ -44,6 +44,3 @@ Specializes in professional web development
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalaiselvan-a-1431b08b/)
 
 [![](https://visitcount.itsvg.in/api?id=kalai6095&icon=0&color=1)](https://visitcount.itsvg.in)
-
-
-
